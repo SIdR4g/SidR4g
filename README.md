@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Siddyant Das</h1>
-<h3 align="center">Sophomore in Electronics and Communication Engineering from NIT,Agartala.Interests include Machine Learning,Embedded Systems,PCB designing.</h3>
+<h3 align="center">Undergrad in Electronics and Communication Engineering from NIT,Agartala.Interests include Machine Learning,Embedded Systems,PCB designing.</h3>
 
 - 🌱 I’m currently learning ** Artificial Intelligence ,PCB designing**
 
