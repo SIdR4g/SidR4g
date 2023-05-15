@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Siddyant Das</h1>
 <h3 align="center">Undergrad in Electronics and Communication Engineering from NIT,Agartala.Interests include Machine Learning,Embedded Systems,PCB designing.</h3>
 
-- 🌱 I’m currently learning ** Artificial Intelligence ,PCB designing**
+- 🌱 I’m currently learning ** Artificial Intelligence , Software Development**
 
-- 🤝 I’m looking for help with **Embedded Systems in STM32 F407 and PCB designing**
+- 🤝 I’m looking for help with **Backend Development and Artificial Intelligence**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SIdR4g](https://github.com/SIdR4g)
 
